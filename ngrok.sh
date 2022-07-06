@@ -21,8 +21,8 @@ echo -e "\e[92m
      ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝  \e[95;1m \e[0m\n"
   echo""
    echo""
-echo "\e[1;91m =======================\e[0m"
+echo -e "\e[1;91m =======================\e[0m"
 echo "Downloading ngrok..."
-echo "\e[1;91m =======================\e[0m"
+echo -e "\e[1;91m =======================\e[0m"
 wget -O ngrok.zip https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip > /dev/null 2>&1
 unzip ngrok.zip > /dev/null 2>&1
