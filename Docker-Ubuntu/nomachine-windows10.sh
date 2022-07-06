@@ -49,7 +49,7 @@ echo ""
 echo "Repo: https://github.com/OnlineHacKing/Cloud_Linux_RDP"
 echo ""
 echo "======================="
-echo "\e[93mChoose Ngrok Region (for better connection).\e[0m"
+echo -e "\e[93mChoose Ngrok Region (for better connection).\e[0m"
 echo "======================="
 echo "us - United States (Ohio)"
 echo "eu - Europe (Frankfurt)"
@@ -59,7 +59,7 @@ echo "sa - South America (Sao Paulo)"
 echo "jp - Japan (Tokyo)"
 echo "in - India (Mumbai)"
 echo ""
-read -p "\e[93mChoose Ngrok Region:\e[0m " CRP
+read -p "Choose Ngrok Region: " CRP
 ./ngrok tcp --region $CRP 4000 &>/dev/null &
 sleep 1
 if curl --silent --show-error http://127.0.0.1:4040/api/tunnels  > /dev/null 2>&1; then echo OK; else echo "Ngrok Error! Please try again!" && sleep 1 && goto ngrok; fi
