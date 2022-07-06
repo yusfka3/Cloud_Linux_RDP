@@ -141,14 +141,14 @@ Link:- https://bit.ly/Cloud-RDP-License
 
  ```
  
- - 6 - Debian Linux XFCE4:
+ - 6 - Debian Linux XFCE4 (Web VNC) :
 
 ![image](https://github.com/OnlineHacKing/Cloud_Linux_RDP/raw/main/OnlineHacKing/1.jpg)
 
  ```console  
 
  ```
- - 7 - Ubuntu Desktop lxde:
+ - 7 - Ubuntu Desktop lxde (Web VNC) :
 
 ![image](https://github.com/OnlineHacKing/Cloud_Linux_RDP/raw/main/OnlineHacKing/3.jpg)
 
