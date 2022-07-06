@@ -96,10 +96,10 @@ sleep 1
 echo "Use NoMachine VNC App : https://www.nomachine.com/download"
 echo -----------------------------------------------------------------
 echo Done! NoMachine Information:
-echo -e "\e[93m IP Address:\e[0m\n"
+echo -e "\e[93m IP Address:\e[97m"
 curl --silent --show-error http://127.0.0.1:4040/api/tunnels | sed -nE 's/.*public_url":"tcp:..([^"]*).*/\1/p' 
-echo -e "\e[96m User:\e[0m\n OnlineHacking"
-echo -e "\e[92m Password:\e[0m\n suman"
+echo -e "\e[96m User: \e[97m OnlineHacking"
+echo -e "\e[92m Password: \e[97m suman"
 echo -----------------------------------------------------------------
 echo "VM can't connect? Restart Cloud Shell then Re-run script."
 seq 1 43200 | while read i; do echo -en "\r Running .     $i s /43200 s";sleep 0.1;echo -en "\r Running ..    $i s /43200 s";sleep 0.1;echo -en "\r Running ...   $i s /43200 s";sleep 0.1;echo -en "\r Running ....  $i s /43200 s";sleep 0.1;echo -en "\r Running ..... $i s /43200 s";sleep 0.1;echo -en "\r Running     . $i s /43200 s";sleep 0.1;echo -en "\r Running  .... $i s /43200 s";sleep 0.1;echo -en "\r Running   ... $i s /43200 s";sleep 0.1;echo -en "\r Running    .. $i s /43200 s";sleep 0.1;echo -en "\r Running     . $i s /43200 s";sleep 0.1; done
