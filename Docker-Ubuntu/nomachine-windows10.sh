@@ -37,12 +37,20 @@ echo -e "\e[31m[\e[32m*\e[31m]\e[33m Visit \e[32m Go to: https://dashboard.ngrok
 echo ""
 echo -e "\e[31m[\e[32m*\e[31m]\e[33m Sign up & get ngrok authtoken \e[m "
 echo ""
-read -p $'\e[31m[\e[32m*\e[31m]\e[33m Paste Ngrok Authtoken: [Ex. 2cEG2LcBtSF************ ] : \e[0m' CRP
+read -p $'\e[31m[\e[32m*\e[31m]\e[33m Paste Ngrok Authtoken: [Ex. 2cEG2LcBt**********WK5Ntc ] : \e[0m' CRP
 echo ""
 ./ngrok authtoken $CRP 
 
 clear
-echo "Repo: https://github.com/kmille36/Docker-Ubuntu-Desktop-NoMachine"
+echo -e "\e[92m			  							  							  
+          \e[m"
+echo -e " \e[36mWebsite : \e[0m\e[92mwww.onlinehacking.in  \e[93m/  \e[92mwww.onlinehacking.xyz  \e[0m\n"
+     echo ""  
+echo -e " \e[31mGitHub : \e[0m\e[93mhttps://github.com/OnlineHacKing \e[0m\n"
+     echo ""
+echo -e " \e[97mTelegram : \e[0m\e[34mhttps://t.me/OnlineHacKing \e[0m\n"
+echo ""
+echo "Repo: https://github.com/OnlineHacKing/Cloud_Linux_RDP"
 echo "======================="
 echo "choose ngrok region (for better connection)."
 echo "======================="
