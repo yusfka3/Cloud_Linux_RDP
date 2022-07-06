@@ -5,7 +5,18 @@
 <p align="center">
 <a href="https://www.onlinehacking.in/cloud-linux-rdp-desktop-lifetime-free"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
-
+<p align="center">
+    <img src="https://img.shields.io/badge/Version-2.6-blue?style=for-the-badge&color=blue">
+     <img src="https://img.shields.io/github/stars/OnlineHacKing/Cloud_Linux_RDP?style=for-the-badge&color=magenta">
+  <img src="https://img.shields.io/github/forks/OnlineHacKing/Cloud_Linux_RDP?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/issues/OnlineHacKing/Cloud_Linux_RDP?color=red&style=for-the-badge">
+    <img src="https://img.shields.io/github/license/OnlineHacKing/Cloud_Linux_RDP?style=for-the-badge&color=blue">
+<br>
+    <img src="https://img.shields.io/badge/Author-SUMAN-green?style=flat-square">
+    <img src="https://img.shields.io/badge/Open%20Source-No-orange?style=flat-square">
+    <img src="https://img.shields.io/badge/Maintained-Yes-cyan?style=flat-square">
+    <img src="https://img.shields.io/badge/Written%20In-Shell-blue?style=flat-square">
+</p>
 </p>
 <p align="center">
 <a href="https://www.onlinehacking.in/cloud-linux-rdp-desktop-lifetime-free"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Cloud_Linux_RDP-green.svg"></a>
