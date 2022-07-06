@@ -97,6 +97,74 @@ Link:- https://bit.ly/Cloud-RDP-License
   
   
 ###  
+
+# Docker-Ubuntu-Desktop-NoMachine
+
+- 1 - Ubuntu MATE Green:
+
+![image](https://user-images.githubusercontent.com/58414694/149459685-27d51920-4616-4b3e-94de-2982f78f9295.png)
+
+'''
+
+- 2 - Ubuntu MATE Green:
+
+![image](https://user-images.githubusercontent.com/58414694/149459685-27d51920-4616-4b3e-94de-2982f78f9295.png)
+
+'''
+
+- 3 - Debian - Windows 10 Theme:
+
+![image](https://user-images.githubusercontent.com/58414694/149808540-5cfe38ee-a88b-4e8b-a1e9-2a5a1fda7f1d.png)
+
+ ```console  
+
+
+ ```
+
+
+- 4 - Ubuntu 20.04 XFCE4 WineHQ :
+
+![image](https://user-images.githubusercontent.com/58414694/149620450-4558489e-f00e-4035-8ccd-4ca231f900a4.png)
+
+ ```console  
+
+ ```
+
+- 5 - Debian Linux XFCE4:
+
+![image](https://user-images.githubusercontent.com/58414694/149454910-33dd1c5b-bbbd-4cc8-b9b7-5b7331723034.png)
+
+ ```console  
+
+ ```
+ 
+ - 6 - Debian Linux XFCE4:
+
+![image](https://user-images.githubusercontent.com/58414694/149454910-33dd1c5b-bbbd-4cc8-b9b7-5b7331723034.png)
+
+ ```console  
+
+ ```
+ - 7 - Ubuntu Desktop lxde:
+
+![image](https://user-images.githubusercontent.com/58414694/149454910-33dd1c5b-bbbd-4cc8-b9b7-5b7331723034.png)
+
+ ```console  
+
+ ```
+  - 8 - XFCE4 Desktop:
+
+![image](https://user-images.githubusercontent.com/58414694/149454910-33dd1c5b-bbbd-4cc8-b9b7-5b7331723034.png)
+
+ ```console  
+
+ ```
+ 
+ 
+*FAQ: VM can't connect? Restart Cloud Shell then Re-run script.*
+
+
+
   
 ### 📸 SCREENSHOTS [Linux]
 
