@@ -43,7 +43,7 @@ bash OnlineHacKing/Logo2.sh
 	                          
                            echo ""
 			   clear
-			   bash RDP/.ubuntu-desktop-lxde-vnc.sh
+			   bash Docker-Ubuntu/.nomachine-mate.sh
 			   echo ""
 			   exit
 			   
@@ -58,7 +58,7 @@ bash OnlineHacKing/Logo2.sh
 	                          
                            echo ""
 			   clear
-			   bash RDP/.kali-linux.sh
+			   bash Docker-Ubuntu/.nomachine-windows10.sh
 			   echo ""
 			   exit
                            
@@ -72,7 +72,7 @@ bash OnlineHacKing/Logo2.sh
 	                          
                            echo ""
 			   clear
-			   bash RDP/.kali-linux.sh
+			   bash Docker-Ubuntu/.nomachine-wine.sh
 			   echo ""
 			   exit
                            
@@ -86,7 +86,7 @@ bash OnlineHacKing/Logo2.sh
 	                          
                            echo ""
 			   clear
-			   bash RDP/.kali-linux.sh
+			   bash Docker-Ubuntu/.nomachine-xfce4.sh
 			   echo ""
 			   exit
                            
@@ -100,7 +100,7 @@ bash OnlineHacKing/Logo2.sh
 	                          
                            echo ""
 			   clear
-			   bash RDP/.kali-linux.sh
+			   bash RDP/.Debian-Linux-ChomeDesktop.sh
 			   echo ""
 			   exit
                            
@@ -114,7 +114,7 @@ bash OnlineHacKing/Logo2.sh
 	                          
                            echo ""
 			   clear
-			   bash RDP/.kali-linux.sh
+			   bash RDP/.ubuntu-desktop-lxde-vnc.sh
 			   echo ""
 			   exit
                            
