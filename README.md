@@ -9,7 +9,7 @@
 </p>
 <p align="center">
 <a href="https://www.onlinehacking.in/cloud-linux-rdp-desktop-lifetime-free"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Cloud_Linux_RDP-green.svg"></a>
-<a href="https://www.onlinehacking.in/cloud-linux-rdp-desktop-lifetime-free"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
+<a href="https://www.onlinehacking.in/cloud-linux-rdp-desktop-lifetime-free"><img title="Version" src="https://img.shields.io/badge/Version-2.6-green.svg?style=flat-square"></a>
 <a href="https://www.onlinehacking.in/cloud-linux-rdp-desktop-lifetime-free"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 
