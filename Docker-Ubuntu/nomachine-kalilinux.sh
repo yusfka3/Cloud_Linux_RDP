@@ -1,11 +1,11 @@
 echo ""
 printf "\e[100;330m[\e[10m **** ]\e[1;40m\e[10m OnlineHacking :\e[1;32m Join Telegram Channel \e[1;33m @OnlineHacking  !\e[0m"
-sleep 4
+sleep 3
 echo ""
 clear
 echo ""
 printf "\e[31m[\e[32m★\e[31m]\e[92m This Cloud Linux RDP working only NoMachine VNC Application and Software you Download NoMachine Application and Connect this RDP\e[m "
-echo "\e[92m  \e[m"
+echo ""
 echo "Download NoMachine VNC App : https://www.nomachine.com/download"
 echo ""
 echo ""
