@@ -5,11 +5,11 @@ echo ""
 clear
 echo ""
 printf "\e[31m[\e[32m★\e[31m]\e[92m This Cloud Linux RDP working only NoMachine VNC Application and Software you Download NoMachine Application and Connect this RDP\e[m "
-echo ""
+echo "\e[92m  \e[m"
 echo "Download NoMachine VNC App : https://www.nomachine.com/download"
 echo ""
 echo ""
-read -p $'\e[1;40m\e[31m[\e[32m*\e[31m]\e[32m Click Enter to Continue   : \e[0m' option
+read -p $'\e[1;40m\e[31m[\e[32m*\e[31m]\e[93m Click Enter to Continue   : \e[0m' option
 echo""
 echo""
 clear
