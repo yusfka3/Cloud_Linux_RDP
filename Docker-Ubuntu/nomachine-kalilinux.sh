@@ -111,7 +111,7 @@ echo -e "\e[92m
      ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝  \e[95;1m \e[0m\n"
   echo""
 sleep 1
-echo -e "\e[96mWebsite : \e[93mhttps://www.onlinehacking.in/"
+echo -e "\e[96mWebsite : \e[93mhttps://www.onlinehacking.in/ \e[0m"
 echo -----------------------------------------------------------------
 echo Done! NoMachine Information:
 echo ""
