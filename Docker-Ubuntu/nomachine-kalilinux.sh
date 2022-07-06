@@ -68,7 +68,7 @@ if curl --silent --show-error http://127.0.0.1:4040/api/tunnels  > /dev/null 2>&
 sleep 1
 clear
 echo ""
-echo -e "\e[1;33m[\e[0m\e[1;77m~\e[0m\e[1;33m]\e[0m\e[1;32m Installing The Download Cloud Linux RDP Tool Ubuntu 20.04 XFCE4 Desktop \e[0m"
+echo -e "\e[1;33m[\e[0m\e[1;77m~\e[0m\e[1;33m]\e[0m\e[1;32m Installing The Download Cloud Linux RDP Tool Kali Linux XFCE4 Desktop Environmen \e[0m"
 echo ""
 echo -e $'\e[1;91m\e[0m\e[1;91m\e[0m\e[1;96m\e[0m\e[1;91m   -----------------------------------------------  \e[1;91m\e[0m'
 echo -e $'\e[1;96m\e[0m\e[1;77m\e[0m\e[1;96m\e[0m\e[1;91m  !!          Download Kali Linux XFCE4          !!\e[0m'
