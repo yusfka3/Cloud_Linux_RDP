@@ -14,6 +14,7 @@ function goto
 }
 
 : ngrok
+clear
 echo ""
 echo -e "\e[93m 
  ███▄    █   ▄████  ██▀███   ▒█████   ██ ▄█▀
@@ -41,7 +42,6 @@ echo ""
 ./ngrok authtoken $CRP 
 
 clear
-clear	
 echo ""
 echo ""
 echo -e " \e[36mWebsite : \e[0m\e[92mwww.onlinehacking.in  \e[93m/  \e[92mwww.onlinehacking.xyz  \e[0m\n"
