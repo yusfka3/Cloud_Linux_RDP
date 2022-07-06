@@ -99,18 +99,23 @@ Link:- https://bit.ly/Cloud-RDP-License
 ###  
 
 # Docker-Ubuntu-Desktop-NoMachine
+  ### 📸 SCREENSHOTS [Linux]
 
 - 1 - Ubuntu MATE Green:
 
 ![image](https://user-images.githubusercontent.com/58414694/149459685-27d51920-4616-4b3e-94de-2982f78f9295.png)
 
-'''
+ ```console  
+
+ ```
 
 - 2 - Ubuntu MATE Green:
 
 ![image](https://user-images.githubusercontent.com/58414694/149459685-27d51920-4616-4b3e-94de-2982f78f9295.png)
 
-'''
+ ```console  
+
+ ```
 
 - 3 - Debian - Windows 10 Theme:
 
@@ -118,9 +123,7 @@ Link:- https://bit.ly/Cloud-RDP-License
 
  ```console  
 
-
  ```
-
 
 - 4 - Ubuntu 20.04 XFCE4 WineHQ :
 
@@ -140,14 +143,14 @@ Link:- https://bit.ly/Cloud-RDP-License
  
  - 6 - Debian Linux XFCE4:
 
-![image](https://user-images.githubusercontent.com/58414694/149454910-33dd1c5b-bbbd-4cc8-b9b7-5b7331723034.png)
+![image](https://github.com/OnlineHacKing/Cloud_Linux_RDP/raw/main/OnlineHacKing/1.jpg)
 
  ```console  
 
  ```
  - 7 - Ubuntu Desktop lxde:
 
-![image](https://user-images.githubusercontent.com/58414694/149454910-33dd1c5b-bbbd-4cc8-b9b7-5b7331723034.png)
+![image](https://github.com/OnlineHacKing/Cloud_Linux_RDP/raw/main/OnlineHacKing/3.jpg)
 
  ```console  
 
@@ -164,20 +167,8 @@ Link:- https://bit.ly/Cloud-RDP-License
 *FAQ: VM can't connect? Restart Cloud Shell then Re-run script.*
 
 
-
-  
-### 📸 SCREENSHOTS [Linux]
-
 <br>
-<p align="center">
-<img width="99%" src="https://github.com/OnlineHacKing/Cloud_Linux_RDP/raw/main/OnlineHacKing/1.jpg"/>
-<img width="99%" src="https://github.com/OnlineHacKing/Cloud_Linux_RDP/raw/main/OnlineHacKing/2.jpg"/>
-</p>
-<br>
-<p align="center">
-<img width="99%" src="https://github.com/OnlineHacKing/Cloud_Linux_RDP/raw/main/OnlineHacKing/3.jpg"/>
-<img width="99%" src="https://github.com/OnlineHacKing/Cloud_Linux_RDP/raw/main/OnlineHacKing/4.jpg"/>
-</p>
+
 
 
 ### WATCH VIDEO 
