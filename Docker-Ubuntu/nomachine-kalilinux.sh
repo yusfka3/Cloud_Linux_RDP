@@ -16,7 +16,7 @@ function goto
 : ngrok
 clear
 echo ""
-echo -e "\e[93m 
+echo -e "\e[92m 
  ███▄    █   ▄████  ██▀███   ▒█████   ██ ▄█▀
  ██ ▀█   █  ██▒ ▀█▒▓██ ▒ ██▒▒██▒  ██▒ ██▄█▒ 
 ▓██  ▀█ ██▒▒██░▄▄▄░▓██ ░▄█ ▒▒██░  ██▒▓███▄░ 
@@ -53,13 +53,13 @@ echo ""
 echo "==========================================================="
 echo -e "\e[96mChoose Ngrok Region (for better connection).\e[0m"
 echo "==========================================================="
-echo -e "us - \e[93mUnited States (Ohio)\e[0m"
-echo -e "eu - \e[93mEurope (Frankfurt)\e[0m"
-echo -e "ap - \e[93mAsia/Pacific (Singapore)\e[0m"
-echo -e "au - \e[93mAustralia (Sydney)\e[0m"
-echo -e "sa - \e[93mSouth America (Sao Paulo)\e[0m"
-echo -e "jp - \e[93mJapan (Tokyo)\e[0m"
-echo -e "in - \e[93mIndia (Mumbai)\e[0m"
+echo -e "us - \e[93mUnited States \e[92m(Ohio)\e[0m"
+echo -e "eu - \e[93mEurope \e[92m(Frankfurt)\e[0m"
+echo -e "ap - \e[93mAsia/Pacific \e[92m(Singapore)\e[0m"
+echo -e "au - \e[93mAustralia \e[92m(Sydney)\e[0m"
+echo -e "sa - \e[93mSouth America \e[92m(Sao Paulo)\e[0m"
+echo -e "jp - \e[93mJapan \e[92m(Tokyo)\e[0m"
+echo -e "in - \e[93mIndia \e[92m(Mumbai)\e[0m"
 echo ""
 read -p "Choose Ngrok Region: " CRP
 ./ngrok tcp --region $CRP 4000 &>/dev/null &
@@ -100,7 +100,7 @@ echo -----------------------------------------------------------------
 echo Done! NoMachine Information:
 echo ""
 echo -e "\e[93m IP Address:\e[97m" 
-curl --silent --show-error http://127.0.0.1:4040/api/tunnels | sed -nE 's/.*public_url":"tcp:..([^"]*).*/\1/p' 
+  curl --silent --show-error http://127.0.0.1:4040/api/tunnels | sed -nE 's/.*public_url":"tcp:..([^"]*).*/\1/p' 
 echo -e "\e[96m User: \e[97m OnlineHacking"
 echo -e "\e[92m Password: \e[97m suman"
 echo -----------------------------------------------------------------
