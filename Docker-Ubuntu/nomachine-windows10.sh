@@ -41,7 +41,9 @@ read -p $'\e[31m[\e[32m*\e[31m]\e[93m Paste Ngrok Authtoken: \e[96m [Ex. 2cEG2Lc
 echo ""
 ./ngrok authtoken $CRP 
 
-clear		  							  							  
+clear	
+echo ""
+echo ""
 echo -e " \e[36mWebsite : \e[0m\e[92mwww.onlinehacking.in  \e[93m/  \e[92mwww.onlinehacking.xyz  \e[0m\n"
 echo ""
 echo -e " \e[97mTelegram : \e[0m\e[93mhttps://t.me/OnlineHacKing \e[0m\n"
@@ -49,15 +51,15 @@ echo ""
 echo "Repo: https://github.com/OnlineHacKing/Cloud_Linux_RDP"
 echo ""
 echo "======================="
-echo -e "\e[93mChoose Ngrok Region (for better connection).\e[0m"
+echo -e "\e[96mChoose Ngrok Region (for better connection).\e[0m"
 echo "======================="
-echo "us - United States (Ohio)"
-echo "eu - Europe (Frankfurt)"
-echo "ap - Asia/Pacific (Singapore)"
-echo "au - Australia (Sydney)"
-echo "sa - South America (Sao Paulo)"
-echo "jp - Japan (Tokyo)"
-echo "in - India (Mumbai)"
+echo -e "us - \e[93mUnited States (Ohio)\n"
+echo -e "eu - \e[93mEurope (Frankfurt)\n"
+echo -e "ap - \e[93mAsia/Pacific (Singapore)\n"
+echo -e "au - \e[93mAustralia (Sydney)\n"
+echo -e "sa - \e[93mSouth America (Sao Paulo)\n"
+echo -e "jp - \e[93mJapan (Tokyo)\n"
+echo -e "in - \e[93mIndia (Mumbai)\n"
 echo ""
 read -p "Choose Ngrok Region: " CRP
 ./ngrok tcp --region $CRP 4000 &>/dev/null &
@@ -96,8 +98,8 @@ sleep 1
 echo "Use NoMachine VNC App : https://www.nomachine.com/download"
 echo -----------------------------------------------------------------
 echo Done! NoMachine Information:
-echo -e "\e[93m IP Address:\e[97m"
-curl --silent --show-error http://127.0.0.1:4040/api/tunnels | sed -nE 's/.*public_url":"tcp:..([^"]*).*/\1/p' 
+echo ""
+echo -e "\e[93m IP Address:\e[97m" curl --silent --show-error http://127.0.0.1:4040/api/tunnels | sed -nE 's/.*public_url":"tcp:..([^"]*).*/\1/p' 
 echo -e "\e[96m User: \e[97m OnlineHacking"
 echo -e "\e[92m Password: \e[97m suman"
 echo -----------------------------------------------------------------
