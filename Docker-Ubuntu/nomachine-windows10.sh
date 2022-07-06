@@ -50,9 +50,9 @@ echo -e " \e[97mTelegram : \e[0m\e[93mhttps://t.me/OnlineHacKing \e[0m\n"
 echo ""
 echo "Repo: https://github.com/OnlineHacKing/Cloud_Linux_RDP"
 echo ""
-echo "======================="
+echo "==========================================================="
 echo -e "\e[96mChoose Ngrok Region (for better connection).\e[0m"
-echo "======================="
+echo "==========================================================="
 echo -e "us - \e[93mUnited States (Ohio)\e[0m"
 echo -e "eu - \e[93mEurope (Frankfurt)\e[0m"
 echo -e "ap - \e[93mAsia/Pacific (Singapore)\e[0m"
@@ -99,7 +99,8 @@ echo "Use NoMachine VNC App : https://www.nomachine.com/download"
 echo -----------------------------------------------------------------
 echo Done! NoMachine Information:
 echo ""
-echo -e "\e[93m IP Address:\e[97m" curl --silent --show-error http://127.0.0.1:4040/api/tunnels | sed -nE 's/.*public_url":"tcp:..([^"]*).*/\1/p' 
+echo -e "\e[93m IP Address:\e[97m" 
+  curl --silent --show-error http://127.0.0.1:4040/api/tunnels | sed -nE 's/.*public_url":"tcp:..([^"]*).*/\1/p' 
 echo -e "\e[96m User: \e[97m OnlineHacking"
 echo -e "\e[92m Password: \e[97m suman"
 echo -----------------------------------------------------------------
