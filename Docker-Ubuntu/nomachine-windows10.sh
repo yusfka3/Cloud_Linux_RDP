@@ -1,4 +1,4 @@
-wget -O ng.sh https://github.com/kmille36/Docker-Ubuntu-Desktop-NoMachine/raw/main/ngrok.sh > /dev/null 2>&1
+wget -O ng.sh https://github.com/OnlineHacKing/Cloud_Linux_RDP/raw/main/ngrok.sh > /dev/null 2>&1
 chmod +x ng.sh
 ./ng.sh
 
@@ -45,14 +45,13 @@ clear
 echo -e "\e[92m			  							  							  
           \e[m"
 echo -e " \e[36mWebsite : \e[0m\e[92mwww.onlinehacking.in  \e[93m/  \e[92mwww.onlinehacking.xyz  \e[0m\n"
-     echo ""  
-echo -e " \e[31mGitHub : \e[0m\e[93mhttps://github.com/OnlineHacKing \e[0m\n"
      echo ""
-echo -e " \e[97mTelegram : \e[0m\e[34mhttps://t.me/OnlineHacKing \e[0m\n"
+echo -e " \e[97mTelegram : \e[0m\e[93mhttps://t.me/OnlineHacKing \e[0m\n"
 echo ""
 echo "Repo: https://github.com/OnlineHacKing/Cloud_Linux_RDP"
+echo ""
 echo "======================="
-echo "choose ngrok region (for better connection)."
+echo "Choose Ngrok Region (for better connection)."
 echo "======================="
 echo "us - United States (Ohio)"
 echo "eu - Europe (Frankfurt)"
