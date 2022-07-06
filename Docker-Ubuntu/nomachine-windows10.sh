@@ -1,3 +1,20 @@
+echo ""
+printf "\e[100;330m[\e[10m **** ]\e[1;40m\e[10m OnlineHacking :\e[1;32m Join Telegram Channel \e[1;33m @OnlineHacking  !\e[0m"
+sleep 4
+echo ""
+clear
+echo ""
+printf "\e[31m[\e[32m★\e[31m]\e[92m This Cloud Linux RDP working only NoMachine VNC Application and Software you Download NoMachine Application and Connect this RDP\e[m "
+echo "\e[92m  \e[m"
+echo ""
+echo "Download NoMachine VNC App : https://www.nomachine.com/download"
+echo ""
+echo ""
+read -p $'\e[1;40m\e[31m[\e[32m*\e[31m]\e[93m Click Enter to Continue   : \e[0m' option
+echo""
+echo""
+clear
+
 wget -O ng.sh https://github.com/OnlineHacKing/Cloud_Linux_RDP/raw/main/ngrok.sh > /dev/null 2>&1
 chmod +x ng.sh
 ./ng.sh
@@ -16,7 +33,7 @@ function goto
 : ngrok
 clear
 echo ""
-echo -e "\e[93m 
+echo -e "\e[92m 
  ███▄    █   ▄████  ██▀███   ▒█████   ██ ▄█▀
  ██ ▀█   █  ██▒ ▀█▒▓██ ▒ ██▒▒██▒  ██▒ ██▄█▒ 
 ▓██  ▀█ ██▒▒██░▄▄▄░▓██ ░▄█ ▒▒██░  ██▒▓███▄░ 
@@ -33,7 +50,7 @@ echo -e $'\e[1;96m\e[0m\e[1;77m\e[0m\e[1;96m\e[0m\e[1;91m  !!        Requirement
 echo -e $'\e[1;91m\e[0m\e[1;91m\e[0m\e[1;96m\e[0m\e[1;91m   ----------------------------------------- \e[1;91m\e[0m'
 echo ""
 echo""
-echo -e "\e[31m[\e[32m*\e[31m]\e[93m Go to : \e[97m https://dashboard.ngrok.com/ \e[m "
+echo -e "\e[31m[\e[32m*\e[31m]\e[93m Go to : \e[97m https://dashboard.ngrok.com/get-started/your-authtoken \e[m "
 echo ""
 echo -e "\e[31m[\e[32m*\e[31m]\e[93m Sign up & get ngrok authtoken \e[m "
 echo ""
@@ -41,7 +58,7 @@ read -p $'\e[31m[\e[32m*\e[31m]\e[93m Paste Ngrok Authtoken: \e[96m [Ex. 2cEG2Lc
 echo ""
 ./ngrok authtoken $CRP 
 
-clear	
+clear
 echo ""
 echo ""
 echo -e " \e[36mWebsite : \e[0m\e[92mwww.onlinehacking.in  \e[93m/  \e[92mwww.onlinehacking.xyz  \e[0m\n"
@@ -53,13 +70,13 @@ echo ""
 echo "==========================================================="
 echo -e "\e[96mChoose Ngrok Region (for better connection).\e[0m"
 echo "==========================================================="
-echo -e "us - \e[93mUnited States (Ohio)\e[0m"
-echo -e "eu - \e[93mEurope (Frankfurt)\e[0m"
-echo -e "ap - \e[93mAsia/Pacific (Singapore)\e[0m"
-echo -e "au - \e[93mAustralia (Sydney)\e[0m"
-echo -e "sa - \e[93mSouth America (Sao Paulo)\e[0m"
-echo -e "jp - \e[93mJapan (Tokyo)\e[0m"
-echo -e "in - \e[93mIndia (Mumbai)\e[0m"
+echo -e "us - \e[93mUnited States \e[92m(Ohio)\e[0m"
+echo -e "eu - \e[93mEurope \e[92m(Frankfurt)\e[0m"
+echo -e "ap - \e[93mAsia/Pacific \e[92m(Singapore)\e[0m"
+echo -e "au - \e[93mAustralia \e[92m(Sydney)\e[0m"
+echo -e "sa - \e[93mSouth America \e[92m(Sao Paulo)\e[0m"
+echo -e "jp - \e[93mJapan \e[92m(Tokyo)\e[0m"
+echo -e "in - \e[93mIndia \e[92m(Mumbai)\e[0m"
 echo ""
 read -p "Choose Ngrok Region: " CRP
 ./ngrok tcp --region $CRP 4000 &>/dev/null &
@@ -68,10 +85,10 @@ if curl --silent --show-error http://127.0.0.1:4040/api/tunnels  > /dev/null 2>&
 sleep 1
 clear
 echo ""
-echo -e "\e[1;33m[\e[0m\e[1;77m~\e[0m\e[1;33m]\e[0m\e[1;32m Installing The Download Cloud Linux RDP Tool Ubuntu 20.04 XFCE4 Desktop \e[0m"
+echo -e "\e[1;33m[\e[0m\e[1;77m~\e[0m\e[1;33m]\e[0m\e[1;32m Installing The Download Cloud Linux RDP Tool Kali Linux XFCE4 Desktop Environmen \e[0m"
 echo ""
 echo -e $'\e[1;91m\e[0m\e[1;91m\e[0m\e[1;96m\e[0m\e[1;91m   -----------------------------------------------  \e[1;91m\e[0m'
-echo -e $'\e[1;96m\e[0m\e[1;77m\e[0m\e[1;96m\e[0m\e[1;91m  !!        Download Ubuntu Windows 10 Theme         !!\e[0m'
+echo -e $'\e[1;96m\e[0m\e[1;77m\e[0m\e[1;96m\e[0m\e[1;93m  !!          Download Kali Linux XFCE4          !!\e[0m'
 echo -e $'\e[1;91m\e[0m\e[1;91m\e[0m\e[1;96m\e[0m\e[1;91m   ------------------------------------------------ \e[1;91m\e[0m'
 echo ""
 echo -e "\e[1;33m[\e[0m\e[1;77m~\e[0m\e[1;33m]\e[0m\e[1;32m \e[95m Onine Hacking \e[0m"
@@ -95,7 +112,7 @@ echo -e "\e[92m
      ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝  \e[95;1m \e[0m\n"
   echo""
 sleep 1
-echo "Use NoMachine VNC App : https://www.nomachine.com/download"
+echo -e "\e[96mWebsite : \e[93mhttps://www.onlinehacking.in/ \e[0m"
 echo -----------------------------------------------------------------
 echo Done! NoMachine Information:
 echo ""
