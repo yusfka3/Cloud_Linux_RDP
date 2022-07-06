@@ -101,9 +101,9 @@ Link:- https://bit.ly/Cloud-RDP-License
 # Docker-Ubuntu-Desktop-NoMachine
   ### 📸 SCREENSHOTS [Linux]
 
-- 1 - Ubuntu MATE Green:
+- 1 - Kali Linux:
 
-![image](https://user-images.githubusercontent.com/58414694/149459685-27d51920-4616-4b3e-94de-2982f78f9295.png)
+![image](https://user-images.githubusercontent.com/58414694/149538842-9f666319-2e89-410c-8573-51c1e65d3f03.png)
 
  ```console  
 
