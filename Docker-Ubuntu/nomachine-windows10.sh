@@ -33,11 +33,11 @@ echo -e $'\e[1;96m\e[0m\e[1;77m\e[0m\e[1;96m\e[0m\e[1;91m  !!        Requirement
 echo -e $'\e[1;91m\e[0m\e[1;91m\e[0m\e[1;96m\e[0m\e[1;91m   ----------------------------------------- \e[1;91m\e[0m'
 echo ""
 echo""
-echo -e "\e[31m[\e[32m*\e[31m]\e[33m Visit \e[32m Go to: https://dashboard.ngrok.com/ \e[m "
+echo -e "\e[31m[\e[32m*\e[31m]\e[33m Go to : \e[97m https://dashboard.ngrok.com/ \e[m "
 echo ""
 echo -e "\e[31m[\e[32m*\e[31m]\e[33m Sign up & get ngrok authtoken \e[m "
 echo ""
-read -p $'\e[31m[\e[32m*\e[31m]\e[33m Paste Ngrok Authtoken: [Ex. 2cEG2LcBt**********WK5Ntc ] : \e[0m' CRP
+read -p $'\e[31m[\e[32m*\e[31m]\e[33m Paste Ngrok Authtoken: \e[96m [Ex. 2cEG2LcBt**********WK5Ntc ] : \e[0m' CRP
 echo ""
 ./ngrok authtoken $CRP 
 
