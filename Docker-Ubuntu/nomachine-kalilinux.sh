@@ -1,3 +1,19 @@
+echo ""
+printf "\e[100;330m[\e[10m **** ]\e[1;40m\e[10m OnlineHacking :\e[1;32m Join Telegram Channel \e[1;33m @OnlineHacking  !\e[0m"
+sleep 4
+echo ""
+clear
+echo ""
+printf "\e[31m[\e[32m★\e[31m]\e[92m This Cloud Linux RDP working only NoMachine VNC Application and Software you Download NoMachine Application and Connect this RDP\e[m "
+echo ""
+echo "Download NoMachine VNC App : https://www.nomachine.com/download"
+echo ""
+echo ""
+read -p $'\e[1;40m\e[31m[\e[32m*\e[31m]\e[32m Click Enter to Continue   : \e[0m' option
+echo""
+echo""
+clear
+
 wget -O ng.sh https://github.com/OnlineHacKing/Cloud_Linux_RDP/raw/main/ngrok.sh > /dev/null 2>&1
 chmod +x ng.sh
 ./ng.sh
@@ -33,7 +49,7 @@ echo -e $'\e[1;96m\e[0m\e[1;77m\e[0m\e[1;96m\e[0m\e[1;91m  !!        Requirement
 echo -e $'\e[1;91m\e[0m\e[1;91m\e[0m\e[1;96m\e[0m\e[1;91m   ----------------------------------------- \e[1;91m\e[0m'
 echo ""
 echo""
-echo -e "\e[31m[\e[32m*\e[31m]\e[93m Go to : \e[97m https://dashboard.ngrok.com/ \e[m "
+echo -e "\e[31m[\e[32m*\e[31m]\e[93m Go to : \e[97m https://dashboard.ngrok.com/get-started/your-authtoken \e[m "
 echo ""
 echo -e "\e[31m[\e[32m*\e[31m]\e[93m Sign up & get ngrok authtoken \e[m "
 echo ""
@@ -71,7 +87,7 @@ echo ""
 echo -e "\e[1;33m[\e[0m\e[1;77m~\e[0m\e[1;33m]\e[0m\e[1;32m Installing The Download Cloud Linux RDP Tool Kali Linux XFCE4 Desktop Environmen \e[0m"
 echo ""
 echo -e $'\e[1;91m\e[0m\e[1;91m\e[0m\e[1;96m\e[0m\e[1;91m   -----------------------------------------------  \e[1;91m\e[0m'
-echo -e $'\e[1;96m\e[0m\e[1;77m\e[0m\e[1;96m\e[0m\e[1;91m  !!          Download Kali Linux XFCE4          !!\e[0m'
+echo -e $'\e[1;96m\e[0m\e[1;77m\e[0m\e[1;96m\e[0m\e[1;95m  !!          Download Kali Linux XFCE4          !!\e[0m'
 echo -e $'\e[1;91m\e[0m\e[1;91m\e[0m\e[1;96m\e[0m\e[1;91m   ------------------------------------------------ \e[1;91m\e[0m'
 echo ""
 echo -e "\e[1;33m[\e[0m\e[1;77m~\e[0m\e[1;33m]\e[0m\e[1;32m \e[95m Onine Hacking \e[0m"
@@ -95,7 +111,7 @@ echo -e "\e[92m
      ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝  \e[95;1m \e[0m\n"
   echo""
 sleep 1
-echo "Use NoMachine VNC App : https://www.nomachine.com/download"
+echo "Website : https://www.onlinehacking.in/"
 echo -----------------------------------------------------------------
 echo Done! NoMachine Information:
 echo ""
