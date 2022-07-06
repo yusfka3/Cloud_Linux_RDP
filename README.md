@@ -47,7 +47,7 @@ Cloud Linux RDP is a Free Remote Desktop Tool Wich is Used to Free Linux Desktop
 
 * Fast internet
 
-* NoMachine App (Android/PC) / Chrome Remote Desktop App (Android)
+* NoMachine App (Android/Windows) 
 
 * Kay 
 
