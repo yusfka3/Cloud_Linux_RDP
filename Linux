@@ -63,6 +63,62 @@ bash OnlineHacKing/Logo2.sh
 			   exit
                            
 
+  
+			   
+                          break;
+		  
+                  elif [ $option = 04 ] || [ $option = 4 ]
+	          then
+	                          
+                           echo ""
+			   clear
+			   bash RDP/.kali-linux.sh
+			   echo ""
+			   exit
+                           
+
+  
+			   
+                          break;
+		  
+                  elif [ $option = 05 ] || [ $option = 5 ]
+	          then
+	                          
+                           echo ""
+			   clear
+			   bash RDP/.kali-linux.sh
+			   echo ""
+			   exit
+                           
+
+  
+			   
+                          break;
+		  
+                  elif [ $option = 06 ] || [ $option = 6 ]
+	          then
+	                          
+                           echo ""
+			   clear
+			   bash RDP/.kali-linux.sh
+			   echo ""
+			   exit
+                           
+
+  
+			   
+                          break;
+		  
+                  elif [ $option = 07 ] || [ $option = 7 ]
+	          then
+	                          
+                           echo ""
+			   clear
+			   bash RDP/.kali-linux.sh
+			   echo ""
+			   exit
+                           
+
 
                   
 			   
