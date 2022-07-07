@@ -49,17 +49,15 @@ echo " "
 		 
 		
 		  
-                  elif [ $option = 01 ] || [ $option = 1 ]
-	          then
+                 echo ""
+		 if [ $option = 01 ] || [ $option = 1 ]
+                 then
 	                          
                            echo ""
 			   clear
 			   bash Docker-Ubuntu/nomachine-kalilinux.sh
 			   echo ""
 			   exit
-			   
-			   
-			   
 			   
 			   
                           break;
