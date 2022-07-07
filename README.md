@@ -92,13 +92,13 @@ Cloud Linux RDP is a Free Remote Desktop Tool Wich is Used to Free Linux Desktop
 ###
   
   
-  ## ✅ Generator License Key Free :
+  ## 🔑 Generator License Key [FREE] :
  #### Link :- https://tinyurl.com/RDP-Linux-Key
 ###
   
   
 
-## ✅ INSTALL GOOGLE CONSOLE TERMINAL :
+## 👩🏻‍💻 INSTALL GOOGLE CONSOLE TERMINAL :
 ```
 sudo apt update -y
 
@@ -114,9 +114,6 @@ bash Linux
 
 ```
 
-### Generator License Key [FREE] :
-Link:- https://bit.ly/Cloud-RDP-License
-  
   
   
 ###  
