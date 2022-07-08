@@ -91,7 +91,7 @@ Cloud Linux RDP is a Free Remote Desktop Tool Wich is Used to Free Linux Desktop
 ## ✅ How To Using This Tool Full Totoral :
  #### Link :- https://www.onlinehacking.in/cloud-linux-rdp-desktop-lifetime-free
 ###
-  
+  ###
   
   ## 🔑 Generator License Key [FREE] :
  #### Link :- https://tinyurl.com/RDP-Linux-Key
@@ -115,6 +115,9 @@ bash Linux
 
 ```
 
+### 📹 WATCH VIDEO 
+
+<center><a href="https://play.onlinehacking.xyz/v/yzu52g" target="_blank" rel="noopener"><img class="wp-image-1939 aligncenter" src="https://www.onlinehacking.in/wp-content/uploads/2021/12/play-.webp" alt="rdp" width="478" height="310" /></a></center>
   
   
 ###  
@@ -153,30 +156,22 @@ bash Linux
  ```console  
 
  ```
-
-- 5 - Debian Linux XFCE4:
-
-![image](https://user-images.githubusercontent.com/58414694/149454910-33dd1c5b-bbbd-4cc8-b9b7-5b7331723034.png)
-
- ```console  
-
- ```
  
- - 6 - Debian Linux XFCE4 (Web VNC) :
+ - 5 - Debian Linux XFCE4 (Web VNC) :
 
 ![image](https://github.com/OnlineHacKing/Cloud_Linux_RDP/raw/main/OnlineHacKing/1.jpg)
 
  ```console  
 
  ```
- - 7 - Ubuntu Desktop lxde (Web VNC) :
+ - 6 - Ubuntu Desktop lxde (Web VNC) :
 
 ![image](https://github.com/OnlineHacKing/Cloud_Linux_RDP/raw/main/OnlineHacKing/3.jpg)
 
  ```console  
 
  ```
-  - 8 - XFCE4 Desktop:
+  - 7 - XFCE4 Desktop:
 
 ![image](https://user-images.githubusercontent.com/58414694/149454910-33dd1c5b-bbbd-4cc8-b9b7-5b7331723034.png)
 
@@ -191,10 +186,6 @@ bash Linux
 <br>
 
 
-
-### WATCH VIDEO 
-
-[![des]()](https://rebrand.ly/rcentvideo)
 
 
 ## 👨🏻‍💻 CONNECT WITH US :
