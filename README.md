@@ -75,7 +75,7 @@ Cloud Linux RDP is a Free Remote Desktop Tool Wich is Used to Free Linux Desktop
 
 * [+] Free Linux Storage !
 
-* [+] 3GB RAM !
+* [+] 8 GB RAM !
 
 * [+] 2 Core GPU !
 
