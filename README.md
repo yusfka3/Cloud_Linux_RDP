@@ -91,12 +91,11 @@ Cloud Linux RDP is a Free Remote Desktop Tool Wich is Used to Free Linux Desktop
 ## ✅ How To Using This Tool Full Totoral :
  #### Link :- https://www.onlinehacking.in/cloud-linux-rdp-desktop-lifetime-free
 ###
-  ###
+  
   
   ## 🔑 Generator License Key [FREE] :
  #### Link :- https://tinyurl.com/RDP-Linux-Key
-###
-  
+
   
 
 ## 👩🏻‍💻 INSTALL GOOGLE CONSOLE TERMINAL :
@@ -115,10 +114,10 @@ bash Linux
 
 ```
 
-### 📹 WATCH VIDEO 
-
+## 📹 WATCH VIDEO 
+<p align="center">
 <center><a href="https://play.onlinehacking.xyz/v/yzu52g" target="_blank" rel="noopener"><img class="wp-image-1939 aligncenter" src="https://www.onlinehacking.in/wp-content/uploads/2021/12/play-.webp" alt="rdp" width="478" height="310" /></a></center>
-  
+  </p>
   
 ###  
 
