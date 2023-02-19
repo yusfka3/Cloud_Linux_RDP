@@ -49,7 +49,7 @@ echo " "
                            
 			   echo ""
                            clear
-			   bash Docker-Ubuntu/nomachine-kalilinux.sh
+			   bash Docker-Ubuntu/.nomachine-kalilinux.sh
 			   echo ""
 			   exit
 			   
@@ -64,7 +64,7 @@ echo " "
 	                          
                            echo ""
 			   clear
-			   bash RDP/kali-linux.sh
+			   bash RDP/.kali-linux.sh
 			   echo ""
 			   exit
 			   		   
