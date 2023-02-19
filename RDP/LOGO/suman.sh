@@ -17,7 +17,7 @@ SUMAN ©\e[93m
     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝   			  
 							  							  
           \e[0m"
-echo -e " \e[36mWebsite : \e[0m\e[92mhttps://www.onlinehacking.xyz \e[0m\n"
+echo -e " \e[36mWebsite : \e[0m\e[92mhttps://www.onlinehacking.org \e[0m\n"
   
 echo -e " \e[31mGitHub : \e[0m\e[93mhttps://github.com/OnlineHacKing \e[0m\n"
 
