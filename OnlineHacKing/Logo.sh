@@ -16,7 +16,7 @@ echo -e "\e[93m
       ╚═════╝╚══════╝ ╚═════╝  ╚═════╝ ╚═════╝     ╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝   \e[0m "
  
   echo""    
-  echo -e $'\e[1;33m\e[0m\e[1;31m    ██████████\e[0m'"\e[1;37m██████████"'\e[1;33m\e[0m\e[0;32m██████████\e[0m' '\e[95m FREE CLOUD RDP DESKTOP \e[0m''\e[1;37m\e[0m\e[1;37m [v 2.3] \e[0m'                                       
+  echo -e $'\e[1;33m\e[0m\e[1;31m    ██████████\e[0m'"\e[1;37m██████████"'\e[1;33m\e[0m\e[0;32m██████████\e[0m' '\e[95m FREE CLOUD RDP DESKTOP \e[0m''\e[1;37m\e[0m\e[1;37m [v 2.4] \e[0m'                                       
   echo ""
    echo -e $'\e[1;33m\e[0m\e[1;33m  [\e[0m\e[1;32m Follow Github : \e[36mhttps://github.com/OnlineHacKing/Cloud_Linux_RDP \e[0m \e[1;32m\e[0m\e[1;33m]\e[0m'
    echo ""
