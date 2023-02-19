@@ -1,6 +1,5 @@
 #!/bin/bash
 echo ""
-
 ## server
 server() {
                            echo -e $" \e[91m[\e[92m★\e[91m]\e[1;93m Online Hacking Server Connect... \e[0m  "
