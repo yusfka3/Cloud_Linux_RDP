@@ -86,17 +86,17 @@ Cloud Linux RDP is a Free Remote Desktop Tool Wich is Used to Free Linux Desktop
 ## ✅ Open GOOGLE CONSOLE TERMINAL :
 
 # <p align="center"> [![Open in Cloud Shell](https://user-images.githubusercontent.com/27065646/92304704-8d146d80-ef80-11ea-8c29-0deaabb1c702.png)](https://shell.cloud.google.com/)
-  
+  <br>
 
 ## ✅ How To Using This Tool Full Totoral :
- #### Link :- https://www.onlinehacking.in/cloud-linux-rdp-desktop-lifetime-free
+ #### Link :- https://www.onlinehacking.org/cloud-linux-rdp-lifetime-free-for-google-cloud-console/
 ###
-  
+  <br>
   
   ## 🔑 Generator License Key [FREE] :
- #### Link :- https://tinyurl.com/RDP-Linux-Key
+ #### Link :- https://wwu.onlinehacking.org/cloud-linux-rdp-key/
 
-  
+  <br>
 
 ## 👩🏻‍💻 INSTALL GOOGLE CONSOLE TERMINAL :
 ```
