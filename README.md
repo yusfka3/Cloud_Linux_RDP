@@ -38,7 +38,9 @@
 ## ABOUT TOOL :
 
 Cloud Linux RDP is a Free Remote Desktop Tool Wich is Used to Free Linux Desktop Of You. This tool works on both All Systems Browser.
+
 <br>
+
 ### AVAILABLE ON :
 
 * Android Browser 
@@ -58,6 +60,7 @@ Cloud Linux RDP is a Free Remote Desktop Tool Wich is Used to Free Linux Desktop
 * All Systems Browser 
 
 <br>
+
 ### REQUIREMENTS :
 
 * Fast internet
@@ -67,6 +70,7 @@ Cloud Linux RDP is a Free Remote Desktop Tool Wich is Used to Free Linux Desktop
 * Kay 
 
 * Ngrok Account 
+
 <br>
 
 ### FEATURES :
