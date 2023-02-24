@@ -18,7 +18,7 @@ echo ""
 echo ""
 echo ""
 echo ""
-read -p $'   \e[1;40m\e[31m[\e[32m*\e[31m]\e[32m Click Enter to Continue ? \e[1;91m : \e[0m' option
+read -p $'   \e[1;40m\e[31m[\e[32m*\e[31m]\e[32m Click Enter to Continue  \e[1;91m : \e[0m' option
 echo""
 echo""
 clear
