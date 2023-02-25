@@ -51,8 +51,7 @@ echo " "
                            
 			   echo ""
                            clear
-			   wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb
-			   python Cloud/vnc-google-shell/python vnc.py
+			   python vnc.py
 			   bash RDP/LOGO/suman.sh
 			   bash OnlineHacKing/Logo5.sh
 			   echo " "
