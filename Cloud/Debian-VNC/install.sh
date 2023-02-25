@@ -1,10 +1,8 @@
 #!/bin/sh
-#KhanhNguyen9872
-#Youtube: https://youtube.com/channel/UCG48mG78znU95DSxyCBffOg
-#Facebook: https://fb.me/khanh10a1
-#Phone: +84937927513
+#Youtube: https://youtube.com/channel/onlinehacking2
+#Facebook: https://fb.me/onlinehacking
 echo "Preparing...."
-wget -O ngrok-stable-linux-amd64.zip "https://github.com/KhanhNguyen9872/Debian_VPS_Google_Shell/blob/main/ngrok-stable-linux-amd64.zip?raw=true" > /dev/null 2>&1
+wget -O ngrok-stable-linux-amd64.zip "https://github.com/OnlineHacKing/Cloud_Linux_RDP/raw/main/Cloud/Debian-VNC/ngrok-stable-linux-amd64.zip?raw=true" > /dev/null 2>&1
 unzip ngrok-stable-linux-amd64.zip > /dev/null 2>&1; rm ngrok-stable-linux-amd64.zip 2> /dev/null
 sudo mv ./ngrok /bin/ngrok; chmod 777 /bin/ngrok
 read -p "INSERT authtoken ngrok: " key
@@ -28,9 +26,9 @@ fi
 echo "set fish_greeting" > ~/.config/fish/config.fish
 chmod -R 777 ~/.config 2> /dev/null
 sudo printf '#!/bin/bash\ndbus-launch &> /dev/null\nautocutsel -fork\nxfce4-session\n' > ~/.vnc/xstartup
-wget -O startvps.sh "https://raw.githubusercontent.com/KhanhNguyen9872/Debian_VPS_Google_Shell/main/startvps.sh" 2> /dev/null
-wget -O setupPS.sh "https://raw.githubusercontent.com/KhanhNguyen9872/Debian_VPS_Google_Shell/main/setupPS.sh" 2> /dev/null
-wget -O apache2.conf "https://raw.githubusercontent.com/KhanhNguyen9872/Debian_VPS_Google_Shell/main/apache2.conf" 2> /dev/null
+wget -O startvps.sh "https://github.com/OnlineHacKing/Cloud_Linux_RDP/raw/main/Cloud/Debian-VNC/startvps.sh" 2> /dev/null
+wget -O setupPS.sh "https://github.com/OnlineHacKing/Cloud_Linux_RDP/raw/main/Cloud/Debian-VNC/setupPS.sh" 2> /dev/null
+wget -O apache2.conf "https://github.com/OnlineHacKing/Cloud_Linux_RDP/raw/main/Cloud/Debian-VNC/apache2.conf" 2> /dev/null
 wget -O vscode.deb "https://github.com/KhanhNguyen9872/Debian_VPS_Google_Shell/blob/main/app/vscode_1.66.1_amd64.deb?raw=true" 2> /dev/null
 sudo mv ./startvps.sh /bin/startvps 2> /dev/null
 sudo rm -rf ~/.bashrc 2> /dev/null
@@ -62,7 +60,7 @@ sudo apt update -y > /dev/null 2>&1
 sudo apt autoremove -y
 if [ ! -d /usr/share/themes/Windows-10-Dark-master ] 2> /dev/null; then
   cd /usr/share/themes/ 2> /dev/null
-  wget -O Windows-10-Dark-master.zip "https://github.com/KhanhNguyen9872/Debian_VPS_Google_Shell/blob/main/app/Windows-10-Dark-master.zip?raw=true" 2> /dev/null
+  wget -O Windows-10-Dark-master.zip "https://github.com/OnlineHacKing/Cloud_Linux_RDP/raw/main/Cloud/Debian-VNC/app/Windows-10-Dark-master.zip?raw=true" 2> /dev/null
   unzip -qq Windows-10-Dark-master.zip 2> /dev/null
   rm -f Windows-10-Dark-master.zip 2> /dev/null
 fi
