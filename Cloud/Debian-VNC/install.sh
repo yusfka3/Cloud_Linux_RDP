@@ -1,8 +1,4 @@
 #!/bin/sh
-#KhanhNguyen9872
-#Youtube: https://youtube.com/channel/UCG48mG78znU95DSxyCBffOg
-#Facebook: https://fb.me/khanh10a1
-#Phone: +84937927513
 echo "Preparing...."
 wget -O ngrok-stable-linux-amd64.zip "https://github.com/KhanhNguyen9872/Debian_VPS_Google_Shell/blob/main/ngrok-stable-linux-amd64.zip?raw=true" > /dev/null 2>&1
 unzip ngrok-stable-linux-amd64.zip > /dev/null 2>&1; rm ngrok-stable-linux-amd64.zip 2> /dev/null
