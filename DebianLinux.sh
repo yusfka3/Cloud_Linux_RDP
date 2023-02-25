@@ -31,7 +31,7 @@ printf "\e[1;31m[\e[0m\e[1;92m01\e[0m\e[1;31m] \e[0m\e[1;48;5;21m Debian Linux (
 echo
 printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;44m\e[0m"     
 echo
-printf "\e[1;31m[\e[0m\e[1;92m02\e[0m\e[1;31m] \e[0m\e[1;37;41m Debian Linux (VNC Viewer Application ) \e[0m \e[0m \e[95m[\e[93mSmooth\e[95m]\e[0m  "
+printf "\e[1;31m[\e[0m\e[1;92m02\e[0m\e[1;31m] \e[0m\e[1;37;41m Debian Linux (VNC Viewer Application ) \e[0m \e[0m \e[95m[\e[93mUpdating\e[95m]\e[0m  "
 echo
 printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;44m\e[0m" 
 echo " "
@@ -64,7 +64,8 @@ echo " "
 	                          
                            echo ""
 			   clear
-			   bash RDP/.kali-linux.sh
+			   cd Cloud/Debian-VNC
+			   bash install.sh
 			   echo ""
 			   exit
 			   		   
