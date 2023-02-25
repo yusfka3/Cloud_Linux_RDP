@@ -89,7 +89,7 @@ bash OnlineHacKing/Logo2.sh
 	                          
                            echo ""
 			   clear
-			   bash RDP/.Debian-Linux-ChomeDesktop.sh
+			   bash DebianLinux.sh
 			   echo ""
 			   exit
                            
