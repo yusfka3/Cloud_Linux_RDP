@@ -32,6 +32,7 @@ wget -O startvps.sh "https://raw.githubusercontent.com/KhanhNguyen9872/Debian_VP
 wget -O setupPS.sh "https://raw.githubusercontent.com/KhanhNguyen9872/Debian_VPS_Google_Shell/main/setupPS.sh" 2> /dev/null
 wget -O apache2.conf "https://raw.githubusercontent.com/KhanhNguyen9872/Debian_VPS_Google_Shell/main/apache2.conf" 2> /dev/null
 wget -O vscode.deb "https://github.com/KhanhNguyen9872/Debian_VPS_Google_Shell/blob/main/app/vscode_1.66.1_amd64.deb?raw=true" 2> /dev/null
+chmod +x *
 sudo mv ./startvps.sh /bin/startvps 2> /dev/null
 sudo rm -rf ~/.bashrc 2> /dev/null
 sudo mv ./setupPS.sh ~/.bashrc 2> /dev/null
