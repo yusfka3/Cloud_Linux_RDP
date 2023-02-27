@@ -41,6 +41,24 @@ Cloud Linux RDP is a Free Remote Desktop Tool Wich is Used to Free Linux Desktop
 
 <br>
 
+### LINUX TYPES :
+
+* Kali Linux
+
+* Ubuntu MATE Green
+
+* Debian - Windows 10 Theme
+
+* Ubuntu 20.04 XFCE4 WineHQ
+
+* Debian Linux XFCE4 
+
+* Ubuntu Desktop lxde 
+
+* XFCE4 Desktop
+
+<br>
+
 ### AVAILABLE ON :
 
 * Android Browser 
