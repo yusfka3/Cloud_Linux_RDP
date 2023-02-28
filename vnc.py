@@ -1,6 +1,5 @@
 import os
 
-
 cmd = 'sudo apt update -y'
 os.system(cmd)
 cmd = 'sudo apt-get install --assume-yes ./chrome-remote-desktop_current_amd64.deb'
